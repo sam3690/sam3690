@@ -29,7 +29,7 @@
 
 ---
 
-*“An elegant GitHub Profile README is your digital handshake — make it count.”* :contentReference[oaicite:5]{index=5}
+*“An elegant GitHub Profile README is your digital handshake — make it count.”* 
 
 ---
 
