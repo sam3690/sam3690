@@ -6,7 +6,7 @@
 ## 🌱 About Me
 - 📚 Currently diving into **AI-driven web apps** with Flask, React & OpenRouter.
 - 🚀 Building portfolio projects like **Portfolio**, **Agent‑Project**, **Resume‑Builder**, and more.
-- 🛠 Skills: **JavaScript**, **TypeScript**, **Python**, **CSS**, **React**, **Flask**, **Next.js**, **TailwindCSS**.
+- 🛠 Skills: **JavaScript**, **TypeScript**, **Laravel**, **Python**, **Django**, **Supabase**, **React**, **Flask**, **Next.js**, **TailwindCSS**.
 - 💬 Always excited to collaborate on innovative ideas and open-source initiatives.
 
 ---
