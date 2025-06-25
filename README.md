@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 [![Sam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sam3690&show_icons=true&theme=radical)](https://github.com/sam3690)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sam3690)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sam3690)](https://git.io/streak-stats)
 
 ---
 
