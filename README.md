@@ -63,8 +63,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sam3690&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ---
-*“An elegant GitHub Profile README is your digital handshake — make it count.”* 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 **Thanks for visiting! I’m always open to feedback, collaboration & great ideas.**
