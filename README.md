@@ -15,6 +15,9 @@
 [![Sam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sam3690&show_icons=true&theme=radical)](https://github.com/sam3690)<br/>
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sam3690&theme=nightowl)](https://git.io/streak-stats)
 
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sam3690&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
