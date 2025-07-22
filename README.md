@@ -54,7 +54,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sam3690&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-<a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>  
+<a href="https://user-badge.committers.top/pakistan/sam3690"> <img src="https://user-badge.committers.top/pakistan/sam3690.svg" alt="Top Committer Badge" width="200"> </a>  
 ---
 
 ## 🤝 Connect with Me
