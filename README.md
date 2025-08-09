@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Usama Ayoub (aka `sam3690`)</h1>
+<h1 align="center">👋 Hi, I’m Usama Ayoub </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Open‑Source Contributor</h3>
 
 ---
