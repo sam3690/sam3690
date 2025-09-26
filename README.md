@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Usama Ayoub</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | AI Agent Developer</h3>
+<h3 align="center"> Full Stack Developer | AI Enthusiast | AI Agent Developer | Backend Specialist</h3>
 
 ---
 
