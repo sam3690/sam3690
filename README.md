@@ -23,6 +23,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=plastic&logo=express&logoColor=%2361DAFB)
 ![Bun](https://img.shields.io/badge/Bun-%23EFD3E3?style=plastic&logo=bun&logoColor=black)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-%23FFFFFF?style=plastic&logo=inertia-dot-js&logoColor=black)
+![Langchain](https://img.shields.io/badge/Langchain-%234ea94b?style=plastic&logo=langchain&logoColor=white)
+![langgraph](https://img.shields.io/badge/Langgraph-%234ea94b?style=plastic&logo=langgraph&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![OAuth](https://img.shields.io/badge/OAuth-%234C62A8?style=plastic&logo=oauth&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330?style=plastic&logo=nodemon&logoColor=%23BBDEAD)
@@ -42,6 +44,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=plastic&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=plastic&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%234ea94b?style=plastic&logo=openai&logoColor=white)
+
 
 ---
 ## 📊 GitHub Stats
