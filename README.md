@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a?style=plastic&logo=react&logoColor=%2361DAFB)
 ![React Hooks](https://img.shields.io/badge/React%20Hooks-%23203BAA?style=plastic&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=plastic&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB?style=plastic&logo=material-ui&logoColor=white)
