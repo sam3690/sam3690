@@ -62,9 +62,6 @@
 - 📫 Email: usamabinayoub@gmail.com
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sam3690&limit=5&theme=radical&combine_all_yearly_contributions=true)
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
