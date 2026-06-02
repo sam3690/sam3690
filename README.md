@@ -57,7 +57,7 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/usama-ayoub-b97775339/](https://www.linkedin.com/in/usama-ayoub-972822405/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/usama-ayoub-972822405/](https://www.linkedin.com/in/usama-ayoub-972822405/)
 - 🚀 StackOverflow: https://stackoverflow.com/users/10109674/usama
 - 📫 Email: usamabinayoub@gmail.com
 
